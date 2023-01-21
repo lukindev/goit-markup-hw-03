@@ -215,7 +215,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 .qualities-list-strategy-name {
@@ -351,6 +351,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 24px;
+  margin-bottom: 72px;
 }
 .filters-btn {
   font-family: inherit;
